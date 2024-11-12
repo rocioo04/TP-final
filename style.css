@@ -9,7 +9,7 @@ body {
 }
 
 #encabezado {
-	background-image:url(img/hola.jpg);
+	background-image:url(hola.jpg);
 	height:200px;
 	width:900px;  
 }
